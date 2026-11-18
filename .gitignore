@@ -1,0 +1,13 @@
+﻿# dataset (1.1 GB) is never committed
+handwritting_data_all/
+all_data.zip*
+cleaned_data/
+work/
+*.u8
+
+# model weights are saved to Google Drive
+*.weights.h5
+*.h5
+
+__pycache__/
+.ipynb_checkpoints/
