@@ -1,0 +1,20 @@
+{
+  "A_cnn": {
+    "top1": 80.08,
+    "top5": 95.16,
+    "params": 4619230,
+    "eval_minutes": 0.3
+  },
+  "B_vgg": {
+    "top1": 94.66,
+    "top5": 99.02,
+    "params": 7034110,
+    "eval_minutes": 0.3
+  },
+  "C_resnet": {
+    "top1": 92.3,
+    "top5": 98.37,
+    "params": 1987966,
+    "eval_minutes": 0.3
+  }
+}
