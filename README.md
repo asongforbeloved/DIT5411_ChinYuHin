@@ -1,7 +1,7 @@
 ﻿# DIT5411 — Handwritten Traditional Chinese Character Recognition
 
 **Course:** THEi DIT5411 Machine Learning — Assignment (Character Recognition)
-**Author:** `<Your Name>` (`<Student ID>`)
+**Author:** `Chin Yu Hin` (`250600833`)
 **Framework:** TensorFlow 2.21 / Keras 3.13 · **Environment:** Google Colab, Tesla T4 (16 GB)
 **Notebook:** [`DIT5411_Character_Recognition.ipynb`](DIT5411_Character_Recognition.ipynb)
 
